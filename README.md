@@ -1,6 +1,6 @@
 # Yande_Downloader
 基于python的 yande.re图片爬取程序
-## requirement
+## Requirement
 - beautifulsoup4==4.12.2
 - fake-useragent==1.2.0
 - Pillow==10.0.1
